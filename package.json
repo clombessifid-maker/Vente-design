@@ -1,0 +1,1 @@
+{"name":"vente-design","version":"1.0.0","description":"Vente en ligne accessoires tech, sono","scripts":{"start":"http-server -p 8080","build":"echo 'Build complete'"},"dependencies":{}}
